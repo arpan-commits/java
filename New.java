@@ -34,7 +34,7 @@ public static void  main( String[] args){
 
     System.out.println("Enter Your String");
     
-    String s=sc.nextLine();
+    String s=sc.next();
     // while(sc.hasNext())
     // {
     //     s=sc.nextLine();
